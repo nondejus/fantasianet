@@ -1,2 +1,0 @@
-# fanrasianet
-web religion
